@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Seeing Things",
+  "base_artist": "Charli xcx",
+  "createdAt": "2026-03-06T01:54:25.587235Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Seeing Things",
+      "artist": "The Black Crowes",
+      "has_synced": false,
+      "path": "select/01_Seeing_Things_The_Black_Crowes.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Seeing Things",
+      "artist": "The Black Crowes",
+      "has_synced": false,
+      "path": "select/02_Seeing_Things_The_Black_Crowes.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Seeing Things - Live",
+      "artist": "The Black Crowes",
+      "has_synced": false,
+      "path": "select/03_Seeing_Things_-_Live_The_Black_Crowes.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I've Been Seeing Things",
+      "artist": "They Might Be Giants",
+      "has_synced": true,
+      "path": "select/04_I've_Been_Seeing_Things_They_Might_Be_Giants.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I've Been Seeing Things",
+      "artist": "They Might Be Giants",
+      "has_synced": true,
+      "path": "select/05_I've_Been_Seeing_Things_They_Might_Be_Giants.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Seeing Things (Album Version)",
+      "artist": "The Black Crowes",
+      "has_synced": true,
+      "path": "select/06_Seeing_Things_(Album_Version)_The_Black_Crowes.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Seeing Things",
+      "artist": "Black Crowes",
+      "has_synced": true,
+      "path": "select/07_Seeing_Things_Black_Crowes.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Must Be Seeing Things",
+      "artist": "Gene Pitney",
+      "has_synced": true,
+      "path": "select/08_I_Must_Be_Seeing_Things_Gene_Pitney.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Seeing Things",
+      "artist": "The Black Crowes",
+      "has_synced": true,
+      "path": "select/09_Seeing_Things_The_Black_Crowes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Seeing Things",
+      "artist": "Bizzy Bone",
+      "has_synced": true,
+      "path": "select/10_Seeing_Things_Bizzy_Bone.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Must Be Seeing Things",
+      "artist": "Gene Pitney",
+      "has_synced": false,
+      "path": "select/11_I_Must_Be_Seeing_Things_Gene_Pitney.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Seeing Things (Live - Atlanta, December 1990)",
+      "artist": "The Black Crowes",
+      "has_synced": false,
+      "path": "select/12_Seeing_Things_(Live_-_Atlanta,_December_1990)_The_Black_Crowes.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Seeing Things (Live In Atlanta, December 1990)",
+      "artist": "The Black Crowes",
+      "has_synced": false,
+      "path": "select/13_Seeing_Things_(Live_In_Atlanta,_December_1990)_The_Black_Crowes.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Seeing Things (MUNA's Version)",
+      "artist": "Charlie Hickey",
+      "has_synced": true,
+      "path": "select/14_Seeing_Things_(MUNA's_Version)_Charlie_Hickey.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Seeing Things",
+      "artist": "Sebastian Sturm",
+      "has_synced": false,
+      "path": "select/15_Seeing_Things_Sebastian_Sturm.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Seeing Things",
+      "artist": "Charli XCX",
+      "has_synced": false,
+      "path": "select/pl_01_Seeing_Things_Charli_XCX.txt"
+    }
+  ]
+}
